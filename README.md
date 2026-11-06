@@ -36,9 +36,13 @@ This is a slightly absurd, comforting adventure. The gameplay is simple; more th
 2. **完整解压 ZIP** 后，运行 **开始游戏.cmd**。
 3. 请保留全部配套文件，无需安装 Godot。
 
-For GitHub downloads, choose **BRT_A_Midnight_Ramble_Season_One_Windows_v133.zip** under the release’s Assets. GitHub’s automatically generated “Source code” archives contain this showcase repository and are not the playable game.
+For GitHub downloads, choose **BRT_A_Midnight_Ramble_Season_One_Windows_v134.zip** under the release’s Assets. GitHub’s automatically generated “Source code” archives contain this showcase repository and are not the playable game.
 
-在 GitHub 下载时，请选择发行版 Assets 下的 **BRT_A_Midnight_Ramble_Season_One_Windows_v133.zip**。GitHub 自动生成的 “Source code” 压缩包是此展示仓库的内容，不是可玩的游戏。
+在 GitHub 下载时，请选择发行版 Assets 下的 **BRT_A_Midnight_Ramble_Season_One_Windows_v134.zip**。GitHub 自动生成的 “Source code” 压缩包是此展示仓库的内容，不是可玩的游戏。
+
+Already downloaded v133? A small **v133-to-v134 patch** is available in the [v134 release](https://github.com/liangliang2049/brt-a-midnight-ramble/releases/tag/v134), so you do not need to download the full game again.
+
+已下载完整 v133 的玩家，可以在 [v134 发行页](https://github.com/liangliang2049/brt-a-midnight-ramble/releases/tag/v134) 选择小补丁，按安装说明更新，无需重下整个游戏。
 
 ## In-game screenshots / 实机截图
 
@@ -78,9 +82,9 @@ I hope you enjoy the journey. And if you have thoughts, suggestions, or advice t
 
 ## Feedback / 欢迎反馈
 
-Tell us which station you were at, what you were doing, and what happened. A screenshot and the game version (currently **v133**) are helpful. Please leave passwords and personal save data out of public reports.
+Tell us which station you were at, what you were doing, and what happened. A screenshot and the game version (currently **v134**) are helpful. Please leave passwords and personal save data out of public reports.
 
-欢迎在 [Issues](https://github.com/liangliang2049/brt-a-midnight-ramble/issues) 留下建议或问题。遇到 bug 时，告诉我们所在站点、当时的操作和发生的情况；附上截图及游戏版本（当前为 **v133**）会更方便定位。
+欢迎在 [Issues](https://github.com/liangliang2049/brt-a-midnight-ramble/issues) 留下建议或问题。遇到 bug 时，告诉我们所在站点、当时的操作和发生的情况；附上截图及游戏版本（当前为 **v134**）会更方便定位。
 
 ## Credits & AI / 鸣谢与 AI
 
