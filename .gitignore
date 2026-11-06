@@ -1,0 +1,11 @@
+*.zip
+*.exe
+*.pck
+*.blend
+*.blend1
+.godot/
+.env
+.env.*
+*.log
+__pycache__/
+distribution/
